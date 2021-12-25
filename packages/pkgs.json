@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/multimedia/STemWin", 
+  "ver": "latest", 
+  "name": "STEMWIN"
+ }, 
+ {
+  "path": "/packages/peripherals/at24cxx", 
+  "ver": "latest", 
+  "name": "AT24CXX"
+ }, 
+ {
+  "path": "/packages/peripherals/rs485", 
+  "ver": "latest", 
+  "name": "RS485"
+ }
+]
